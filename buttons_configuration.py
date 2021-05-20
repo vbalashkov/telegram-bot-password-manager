@@ -1,0 +1,6 @@
+
+NEW_PASSWORD_CALLBACK_ID = 'new_pass'
+
+REQUEST_PASSWORD_CALLBACK_ID = 'request_pass'
+
+DELETE_PASSWORD_CALLBACK_ID = 'delete_pass'
